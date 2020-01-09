@@ -39,8 +39,13 @@ max-width: 100vw;}
 
 
 }
-.job-title{font-size:17pt;}
-.date{font-size:17pt;}
-.job-description{font-size:13pt;}
-.resume-title{font-size:25pt;}
+.job-title{font-size:17pt;
+    padding-bottom:10px;
+}
+.date{font-size:17pt;
+}
+.job-description{font-size:13pt;
+}
+.resume-title{font-size:25pt;
+}
 .my-accounts{background-color:white;}
