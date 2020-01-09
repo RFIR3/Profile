@@ -26,9 +26,9 @@ display:flex;
     flex-wrap:wrap;
     justify-content:center;
 }
-.resume-segment{width:45vw;
-    padding-left:10px;
-    padding-right:10px;
+.resume-segment{width:37vw;
+    padding-left:30px;
+    padding-right:30px;
     margin-top:10px;
     margin-bottom:10px;
 min-width: 400px;
