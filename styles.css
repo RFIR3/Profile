@@ -17,7 +17,9 @@ h1, img {
 
 .projects{background-color: white;}
 .resume{background-color:#858DFF;
-text-align: center;
+    font-family: 'Gelasio', serif;
+
+    text-align: center;
 display:flex;
     flex-direction: row;
     flex-wrap: wrap;
