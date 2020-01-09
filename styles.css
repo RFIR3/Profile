@@ -10,7 +10,8 @@ h1, img {
 .My-Color-Theme-4-hex { color: #424680; }
 .My-Color-Theme-5-hex { color: #2D37CC; }
 
-.header{
-    background-color:#858DFF;
-}
+.header{background-color:#858DFF;}
 .header h1{padding:30px;}
+.projects{background-color: white;}
+.resume{background-color:#858DFF;}
+.my-accounts{background-color:white;}
