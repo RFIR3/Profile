@@ -11,7 +11,9 @@ h1, img {
 .My-Color-Theme-5-hex { color: #2D37CC; }
 
 .header{background-color:#858DFF;}
-.header h1{padding:30px;}
+.header h1{padding:30px;
+    font-family: 'Courier Prime', monospace;}
+
 .projects{background-color: white;}
 .resume{background-color:#858DFF;}
 .my-accounts{background-color:white;}
