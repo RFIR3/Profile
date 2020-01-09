@@ -17,5 +17,13 @@ h1, img {
 
 .projects{background-color: white;}
 .resume{background-color:#858DFF;
-text-align: center;}
+text-align: center;
+display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.resume-segment{width: 60vw;
+min-width: 400px;
+max-width: 100vw;}
 .my-accounts{background-color:white;}
