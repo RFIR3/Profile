@@ -23,12 +23,14 @@ display:flex;
     flex-wrap: wrap;
     justify-content: center;
 }
-.resume-segment{width: 60vw;
+.resume-segment{width:60vw;
+    margin-top:10px;
+    margin-bottom:10px;
 min-width: 400px;
 max-width: 100vw;}
 .fw{min-width: 100vw;
     max-width: 100vw;
     width: 100vw;
 }
-.resume-title{}
+.resume-title{font-size:30pt}
 .my-accounts{background-color:white;}
