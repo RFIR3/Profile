@@ -28,18 +28,29 @@ color:white;
     padding-bottom:20px;
 
 }
-.project{
+.project {
+    background-color: white;
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.project-segment{
     background-color:white;
-    display:flex;
-    text-align:center;
-    flex-direction:row;
-    justify-content:center;
-    flex-wrap:wrap;
+    height:150px;
+    width:250px;
+    min-width:250px;
+    max-width:80%;
+    max-height:150px;
 
 
 
 
 }
+
+
+
 .resume{background-color:#858DFF;
     font-family: 'Gelasio', serif;
     padding-top:35px;
