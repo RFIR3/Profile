@@ -89,14 +89,7 @@ display:flex;
     margin-bottom:10px;
 min-width: 400px;
 max-width: 100vw;}
-.fw{min-width: 100vw;
-    max-width: 100vw;
-    width: 100vw;
 
-    font-family: 'Gelasio', serif;
-
-
-}
 .job-title{font-size:17pt;
     padding-bottom:10px;
 }
@@ -146,4 +139,11 @@ max-width: 100vw;}
 
  }
 
+.fw{min-width: 100vw;
+    max-width: 100vw;
+    width: 100vw;
 
+    font-family: 'Gelasio', serif;
+
+
+}
