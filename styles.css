@@ -147,3 +147,6 @@ max-width: 100vw;}
 
 
 }
+.override{
+    margin:0!important;
+}
