@@ -57,7 +57,11 @@ font-size:13pt;
     padding-left:20px;
     padding-right:20px;
 }
-
+.project-spacing{
+    max-width:100%;
+    width:1200px;
+    min-width:65%;
+}
 
 
 .resume{background-color:#858DFF;
