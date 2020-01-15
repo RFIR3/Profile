@@ -45,7 +45,8 @@ color:white;
     max-height:200px;
 }
 .project-title{
-    padding-bottom:30px;
+    padding-bottom:15px;
+    padding-top:10px;
     font-size:17pt;
     font-family: 'Gelasio', serif;
 }
@@ -53,6 +54,8 @@ color:white;
     font-family: 'Gelasio', serif;
 font-size:13pt;
     padding-bottom:20px;
+    padding-left:10px;
+    padding-right:10px;
 }
 
 
