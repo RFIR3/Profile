@@ -112,6 +112,7 @@ max-width: 100vw;}
 .my-accounts{background-color:#424680;
     display:flex;
     justify-content:center;
+    flex-wrap:wrap;
 }
 .my-accounts a{
     padding:40px;
