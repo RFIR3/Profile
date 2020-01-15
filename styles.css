@@ -47,9 +47,12 @@ color:white;
 .project-title{
     padding-bottom:30px;
     font-size:17pt;
-
     font-family: 'Gelasio', serif;
-
+}
+.project-description{
+    font-family: 'Gelasio', serif;
+font-size:13pt;
+    padding-bottom:20px;
 }
 
 
