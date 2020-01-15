@@ -18,7 +18,18 @@ color:white;
 
 }
 
-.projects{background-color: white;}
+.projects{background-color:#424680;
+    display:flex;
+    text-align:center;
+    flex-direction:row;
+    justify-content:center;
+    flex-wrap:wrap;
+    padding-top:20px;
+    padding-bottom:20px;
+
+
+
+}
 .resume{background-color:#858DFF;
     font-family: 'Gelasio', serif;
     padding-top:35px;
